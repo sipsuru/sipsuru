@@ -1,4 +1,4 @@
-- 👋 Hi, We're Dragon @sipsuru team. Here we patch Yomboc Sipsuru Software (Which's distributed with CC0-1) for Sri Lankan Education institute Siyapatha.
+- 👋 Hi, We're Dragon Sipsuru team. Here we patch Yomboc Sipsuru Software (Which's distributed with CC0-1) for Sri Lankan Education institute Siyapatha.
 - Please look forward for it.
 
 <!---
