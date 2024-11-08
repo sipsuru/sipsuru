@@ -17,11 +17,11 @@
         <img src="https://avatars.githubusercontent.com/u/186949629?s=200&v=4" alt="Siyochem" width="75" height="75">
       </a>
     </td>
-    <td align="center">
+  <!--  <td align="center">
       <a href="https://github.com/Ewings-Patch">
         <img src="https://avatars.githubusercontent.com/u/187277147?s=200&v=4" alt="eWings" width="75" height="75">
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
